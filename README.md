@@ -23,3 +23,4 @@ Retailer will put multiple gateways to cover the range of his shop. These device
   -  Provisioning Labels
   -  Roll-out of new firmware update to end-node
   -  Down link update from retail app (price update, new qr code ...).
+![Untitled Diagram drawio](https://github.com/Darkus3/deadbeef/assets/3934435/6183bd37-b389-4f3c-a4c6-15031f543bca)
